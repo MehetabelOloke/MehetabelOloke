@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**MehetabelOloke/MehetabelOloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello 👋, I'm Mehetabel
 
 - 🔭 I’m currently working as a Data Analyst
 - 🌱 I’m currently learning Machine Learning, Predictive Analysis 
